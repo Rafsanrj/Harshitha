@@ -1,0 +1,35 @@
+h1, p {
+  font-family: Lato;
+}
+body{
+	background-image: url('dinner.jpg');
+	height: 100%;
+	background-repeat: none;
+	background-size: cover;
+	background-position: 70% 30%;
+
+
+}
+.div1{
+	
+	border-bottom: 1px solid;
+
+}
+.tl
+{
+
+border-bottom: 1px solid;
+padding: 10px;	
+}
+
+
+.div2{
+	width: 750px;
+	height: 423px;
+	margin: 50px auto;
+	background: rgba(255,255,255,01);
+	box-shadow: 1px 2px 3px 0px rgba(0,0,0,0.10);
+	border-radius: 6px;
+	display: flex;
+	flex-direction: column;
+}
